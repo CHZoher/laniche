@@ -1,4 +1,4 @@
-# Utiliser bootstrap pour un la responsive du site
+# Utiliser bootstrap pour un responsive du site
 
 J'ai appris à inséré bootstrap et à l'utiliser les différent classe name pour une responsive correcte et simple.
 
